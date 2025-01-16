@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Ajouter ici mes fichiers à ignorer
+secretCheat.txt
